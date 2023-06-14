@@ -1,0 +1,75 @@
+ git status
+ git pull origin master
+  130  git status
+  131  git log -p -2
+  132  git log -p -1
+  133  git branch
+  134  git branch new-branch
+  135  git branch
+  136  git branch dev dev2 dev3
+  137  git branch dev
+  138  git branch dev2
+  139  git branch dev3
+  140  git branch
+  141  git rm branch new-branch
+  142  git branch rm new-branch
+  143  git rm branch new-branch
+  144  git branch
+  145  git branch -d rm
+  146  git branch -d new-branch
+  147  git branch
+  148  git status
+  149  git log
+  150  git checkout dev
+  151  git branch
+  152  git checkout master
+  153  git branch
+  154  git commit -m "created branches"
+  155  git add .
+  156  git commit -m "created branches"
+  157  git push origin master
+  158  git branch
+  159   git checkout dev
+  160  git add .
+  161  git log
+  162  git commit -m "added dev"
+  163  git push -u origin master
+  164  git push -u origin dev
+  165  touch dev2.txt
+  166  checkout dev2
+  167  git checkout dev2
+  168  git add .
+  169  git commit -m 'dev2 added'
+  170  git push
+  171  git push -u origin dev2
+  172  git add dev3.txt
+  173  touch dev3.txt
+  174  git add .
+  175  git commit -m 'dev3 added'
+  176  get push
+  177  git push
+  178  git branch -b new
+  179  git checkout -b new
+  180  git branch
+  181  git remote add myrep https://github.com/basavaraj2327/myrep.git
+  182  git log
+  183  git push -u myrep
+  184  git clone https://github.com/Basavaraj2k00/myrep.git
+  185  dir
+  186  cd myrep/
+  187  git remote add -u https://github.com/basavaraj2327/myrep.git
+  188  git remote add upstream https://github.com/basavaraj2327/myrep.git
+  189  git checkout -b raj
+  190  git add .
+  191  git commit "forked and updated"
+  192  git commit -m "forked and updated"
+  193  code .
+  194  git add .
+  195  git commit -m "forked and updated"
+  196  git fetch upstream
+  197  git merge upstream/main
+  198  git push origin raj
+  199  git push origin raj
+  200  git add .
+  201  git commit -m "forked and updated"
+  202  history
